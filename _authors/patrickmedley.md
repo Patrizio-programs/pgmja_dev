@@ -1,0 +1,22 @@
+---
+name: Patrick Medley
+username: johndoe
+bio: "Hi I Patrick Medley, a Web Developer and more...."
+site: http://johndoe.com
+avatar: johndoe.png
+email: mail@johndoe.com
+social:
+    - title: "github"
+      url: "https://github.com/Patrizio-programs"
+    - title: "linkedin"
+      url: "https://www.linkedin.com/in/patrick-medley2497"
+    - title: "facebook"
+      url: "https://www.facebook.com/profile.php?id=100082245522864"
+    - title: "twitter"
+      url: "https://www.twitter.com/johndoe"
+    - title: "instagram"
+      url: "https://www.instagram.com/patriziothedev"
+    - title: "medium"
+      url: "https://medium.com/@all-interests"
+    
+---
