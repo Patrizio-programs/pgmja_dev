@@ -56,7 +56,7 @@ author_education_details:
 
 # Projects
 author_project_details:
-              - project_thumbnail: dishswapp,jpg
+              - project_thumbnail: dishswapp.jpg
                 project_title: dishswapp
                 project_description: Collaborative Recipe Web App
                 project_url: https://dishswapp.org
@@ -67,7 +67,7 @@ author_project_details:
                 project_title: Hack4r
                 project_description: Collaborative Recipe Web App
                 project_url: https://hack4r.com
-                visibility: true
+                visibility: false
 
 # social links
 twitter_username: johndoe
