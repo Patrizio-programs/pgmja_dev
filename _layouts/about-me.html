@@ -126,7 +126,7 @@ layout: default
             <img src="{{site.url}}{{site.baseurl}}/assets/img/{{project.project_thumbnail}}" class="project-img"/>
           </div>
       
-          <div class="col-md-4">
+          <div class="col-md-8">
             <h4 class="experience-title">{{ project.project_title }}</h4>
             <h6 class="experience-info">{{ project.project_info}}</h6>
             <p class="experience-desc">{{ project.project_description }}</p>
@@ -136,7 +136,6 @@ layout: default
       {% endif %}
       {% endfor %}
       <br />
-
     </div>
     {% endif %} {% if site.show_author_work_experiences == true %}
     <div class="card">
