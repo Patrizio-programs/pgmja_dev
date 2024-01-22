@@ -1,6 +1,6 @@
 ---
 name: Patrick Medley
-username: johndoe
+username: patrickmedley
 bio: "Hi I Patrick Medley, a Web Developer and more...."
 site: http://johndoe.com
 avatar: johndoe.png
