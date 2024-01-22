@@ -2,9 +2,9 @@
 name: Patrick Medley
 username: patrickmedley
 bio: "Hi I Patrick Medley, a Web Developer and more...."
-site: http://johndoe.com
-avatar: johndoe.png
-email: mail@johndoe.com
+site: pgmja.com
+avatar: profile.png
+email: patrickm@pgmja.com
 social:
     - title: "github"
       url: "https://github.com/Patrizio-programs"
