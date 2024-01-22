@@ -67,7 +67,7 @@ author_project_details:
                 project_title: Hack4r
                 project_description: Collaborative Recipe Web App
                 project_url: https://hack4r.com
-                visibility: false
+                visibility: true
 
 # social links
 twitter_username: johndoe

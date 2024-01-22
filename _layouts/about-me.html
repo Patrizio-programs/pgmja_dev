@@ -117,8 +117,7 @@ layout: default
     <div id="author_projects" class="card">
       <h1 class="card-title">Projects</h1>
       <br />
-      <br />
-      <br />
+      
 
       {% for project in site.author_project_details %} {% if project.visibility
       == true %}
@@ -129,6 +128,8 @@ layout: default
             class="project-img"
           />
         </div>
+
+        <div class="row">
         <div class="col-md-4 center">
           <h4 class="experience-title">{{ project.project_title }}</h4>
           <h6 class="experience-info">{{ project.project_info}}</h6>
@@ -140,6 +141,7 @@ layout: default
           </p>
         </div>
       </div>
+    </div>
       <br />
       {% endif %} {% endfor %}
     </div>
