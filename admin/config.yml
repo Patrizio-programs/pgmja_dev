@@ -5,7 +5,7 @@ backend:
   site_domain: https://devpgmja.netlify.app
 
 editorial_workflow:
-  preview_url: https://devpgmja.netlify.app/
+  preview_url: https://devpgmja.netlify.app/admin
   publish_mode: editorial_workflow
 
 media_folder: "assets/img/posts" # Media files will be stored in the repo under images/uploads
