@@ -29,8 +29,8 @@ author: Patrick Medley
 author_bio: Hello, my name is Patrick Medley and I am from Jamaica 🇯🇲. In addition to being an avid sports fan and book enthusiast, I have a special passion for technology, especially in the fields of software engineering and computer science. My particular focus is on programming languages such as Python and Javascript. I am constantly learning and exploring what these languages can offer and how they can be used to develop high-quality, user-friendly applications.
 author_email: "patrickm@pgmja.com"
 author_location: Jamaica
-author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+author_website_url: "pgmja.com"
+typewrite-text: 
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
@@ -59,14 +59,16 @@ author_education_details:
 
 # Projects
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
+              - project_thumbnail: dishswapp.org
+                project_title: dishswapp
                 project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
+                project_url: https://dishswapp.org
                 visibility: true
+
+                
               - project_thumbnail: hack4r.PNG
                 project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
+                project_description: Collaborative Recipe Web App
                 project_url: https://hack4r.com
                 visibility: true
 
