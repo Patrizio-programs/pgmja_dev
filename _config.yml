@@ -63,18 +63,17 @@ author_project_details:
                 visibility: true
 
 
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: Collaborative Recipe Web App
-                project_url: https://hack4r.com
-                visibility: false
+              - project_thumbnail: cleanflix.png
+                project_title: CleanFlix
+                project_description: Kids movie recommendation library
+                project_url: https://cleanflix.netlify.app/
+                visibility: true
 
 # social links
 twitter_username: johndoe
 github_username:  Patrizio-programs
 facebook_username: https://www.facebook.com/profile.php?id=100082245522864
 linkedin_username: patrick-medley2497
-behance_username: johndoe
 instagram_username: patriziothedev
 medium_username: all-interests
 
